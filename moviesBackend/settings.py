@@ -30,7 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['lit-meadow-84546.herokuapp.com', '127.0.0.1']
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:4200",
+    "http://localhost:3000",
 ]
 
 
