@@ -26,7 +26,7 @@ SECRET_KEY = 't!$7$_7&=8bvyl2m&8^45#(gu$%j*9o0=azm9ww%g%5dbnn&_6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['movies-api-application.herokuapp.com/']
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
